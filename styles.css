@@ -1,0 +1,53 @@
+
+
+
+body {
+
+	background-color: lightblue;
+	
+}
+
+h1 {
+	
+	text-align: center;
+	font-family: fantasy,copperplate;
+	font-size: 50px;
+	color: darkgreen;
+}
+
+#links {
+	text-align: center;
+}
+
+#indexinfo {
+
+  width: 22%;
+  
+}
+
+#home {
+float: right;
+width: 73%
+
+}
+
+#map { 
+ text-align: center;
+}
+
+#contact {
+	text-align: center;
+}
+
+#chainsaw {
+	text-align: center;
+	
+}
+
+#mulch {
+	
+text-align: center;
+
+}
+
+
